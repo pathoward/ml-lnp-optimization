@@ -9,3 +9,19 @@ Code does 2 things: allow you to add/edit formulations based on formulation numb
 
 ### Acknowledgements
 Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011
+
+### Key for cleaned CSV
+
+**Libraries:**
+- 10** = A_ 
+- 20** = B_
+- 30** = C_
+
+**Phospholipids:**
+- 1 = DOPC
+- 2 = DSPC
+- 3 = DOPE
+
+**Ionizable Lipid:**
+- 1 = DLin-MC3
+- 2 = 18:1 DAP

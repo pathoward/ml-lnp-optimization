@@ -1,4 +1,4 @@
-﻿Lib #,Phospholipid,ionizable lipid,lipid-PEG,surface DNA,% phospholipid,% chol.,% ionizable lipid,% lipid-PEG,EE (0/0),size (nm),Sd (nm)
+﻿Lib_#,Phospholipid,ionizable_lipid,lipid-PEG,surface_DNA,%_phospholipid,%_chol.,%_ionizable_lipid,%_lipid-PEG,EE_(0/0),size_(nm),Sd_(nm)
 A_1,DOPC,DLin-MC3,C18,T21,10,35,50,5,82,159,79
 A_2,DOPC,18:1 DAP,C 14,T21,24,25,50,1,84,279,107
 A_3,DOPC,DLin-MC3,C18,T21,20,25,50,5,67,227,81
