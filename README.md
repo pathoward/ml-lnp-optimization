@@ -7,9 +7,6 @@ An open source ML-leveraging program that suggests a four-component formulation 
 ### Vision
 Code does 2 things: allow you to add/edit formulations based on formulation number, and return ideal formulation based on inputted material constraints and desired size
 
-### Assumptions
-This code assumes, on the basis that these libraries intermingle 
-
 ### Acknowledgements
 Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011
 
