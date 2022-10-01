@@ -8,6 +8,12 @@ An open source ML-leveraging program that suggests a four-component formulation 
 Code does 2 things: allow you to add/edit formulations based on formulation number, and return ideal formulation based on inputted material constraints and desired size
 
 ### Acknowledgements
+Data:
+Andrew J. Sinegra, Michael Evangelopoulos, Jungsoo Park, Ziyin Huang, and Chad A. Mirkin
+Nano Letters 2021 21 (15), 6584-6591
+DOI: 10.1021/acs.nanolett.1c01973
+
+ML Package:
 Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011
 
 ### Reagent Key for cleaned CSV
