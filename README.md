@@ -9,8 +9,7 @@ Code does 2 things: allow you to add/edit formulations based on formulation numb
 
 ### Acknowledgements
 Data:
-Andrew J. Sinegra, Michael Evangelopoulos, Jungsoo Park, Ziyin Huang, and Chad A. Mirkin
-Nano Letters 2021 21 (15), 6584-6591
+Andrew J. Sinegra, Michael Evangelopoulos, Jungsoo Park, Ziyin Huang, and Chad A. Mirkin. *Nano Letters* **2021** *21* (15), 6584-6591
 DOI: 10.1021/acs.nanolett.1c01973
 
 ML Package:
